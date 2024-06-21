@@ -15,10 +15,17 @@ h1{
     color: white;
 }
 
-.less-btn{
-    margin-right: 8px;
+.btns{
+    margin-top: 30%;
+    display: flex;
+    justify-content: space-evenly;
 }
 
-.add-btn{
-    margin-left: 8px;
+.btn{
+    height: 28px;
+    width: 70px;
+    border-radius: 6px;
+    cursor: pointer;
 }
+
+
